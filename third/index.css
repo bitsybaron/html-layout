@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    background: transparent;
+}
+
+header {
+    height: 14vh;
+    background-color: rgb(219, 219, 219);
+}
+
+section {
+    margin: auto;
+    height: 85%;
+    width: 9%;
+    float: left;
+    margin-top: 5px;
+    margin-left: 15px;
+    background-color: rgb(49, 151, 219);
+}
+
+.paragraph {
+    height: 25vh;
+    width: 100vw;
+    margin-bottom: 5%;
+}
+
+p {
+    text-align: left;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    padding-top: 5%;
+    font-family: sans-serif;
+    font-size: 3vh;
+}
+
+.blue {
+    height: 14vh;
+    width: 100vw;
+    background-color: rgb(49, 151, 219);
+}
+
+.turq {
+    height: 14vh;
+    width: 100vw;
+    background-color: rgb(96, 252, 218);
+}
+
+.sand {
+    height: 14vh;
+    width: 100vw;
+    background-color: rgb(253, 247, 163);
+}
+
+footer {
+    height: 14vh;
+    width: 100vw;
+    background-color: rgb(245, 228, 72);
+}
